@@ -28,3 +28,9 @@ class MWindow(QMainWindow):
 
         print("Admin clicked!!!!!")
 
+# git init
+# git add .
+# git commit -m "Birinchi o'zgartirish"
+# git remote add origin https://github.com/Taqiy-M/my_repo_to_teach_fn_10_git.git
+# git push
+# git pull
